@@ -34,7 +34,7 @@ Miami based 5+ years experienced QA Engineer testing software of Mobile and Web 
 
 ---
 
-### 💾 Projects with data:
+### 💾 Wprking tools with data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@ Miami based 5+ years experienced QA Engineer testing software of Mobile and Web 
 
 ---
 
-### ✏️ Projects with code:
+### ✏️Working tools with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
